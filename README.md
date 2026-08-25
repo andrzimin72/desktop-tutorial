@@ -1,4 +1,4 @@
-### Key skills and practical competencies
+### My Key Skills and Practical Competencies
 
 Literature review and analysis: analyzing scientific articles, identifying promising ideas.
 
