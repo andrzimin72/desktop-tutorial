@@ -1,6 +1,6 @@
 ### About the author
 
-Hello everyone! Let me introduce myself before we start. I'm Andre Zimin - ML Researcher & Data Scientist (Python & Java). Open to collaborations. 
+Hello everyone! Let me introduce myself before we start. I'm Andre Zimin - ML Researcher & Data Scientist (Python & Java). Open to new collaborations. 
 
 ### Key Skills 
 
