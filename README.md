@@ -1,4 +1,4 @@
-### My Key Skills 
+### Key Skills 
 
 Literature review and analysis: analyzing scientific articles, identifying promising ideas.
 
@@ -12,7 +12,7 @@ Documentation and presentations: reports, articles, code (GitHub), benchmarks, a
 
 Collaboration: working with engineers to implement findings and with subject matter experts to properly formulate the problem.
 
-### My Practical Competencies 
+### Practical Competencies 
 
 Reproducibility of experiments (recording random samples, library versions, and configurations). 
 
