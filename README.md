@@ -23,3 +23,6 @@ Reproducibility of experiments (recording random samples, library versions, and 
 Research and development of new approaches, algorithms, and model architectures. 
 
 Participation in Kaggle and Devpost hackathons in 2025-2026. 
+
+### Hobby and way of self-expression
+Everyone who is in for active mountain vacations, - cross-country skiing in winter and trekking in summer, - must visit Eastern Siberia and Baikal at least once in their life. Welcome!
