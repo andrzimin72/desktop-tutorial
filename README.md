@@ -1,3 +1,7 @@
+### About the author
+
+Andre Zimin. ML Researcher & Data Scientist. Python & Java. Open to collaborations. 
+
 ### Key Skills 
 
 Literature review and analysis: analyzing scientific articles, identifying promising ideas.
