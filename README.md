@@ -1,6 +1,15 @@
-# Welcome to GitHub Desktop!
+### Key skills and practical competencies
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Literature review and analysis: analyzing scientific articles, identifying promising ideas.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-Andre Zimin
+Formulating research hypotheses: what improvements are possible for a specific task (accuracy, speed, interpretability, noise resilience).
+
+Experimentation and prototyping: implementing new methods in Python, selecting metrics and KPIs, conducting accurate A/B and offline evaluations.
+
+Improving existing models: tuning, ensembles, distillation, quantization, working with data (augmentations, synthetic samples).
+
+Documentation and presentations: reports, articles, code (GitHub), benchmarks, and reproducibility of experiments.
+
+Collaboration: working with engineers to implement findings and with subject matter experts to properly formulate the problem.
+
+Practical competencies: reproducibility of experiments (recording random samples, library versions, and configurations), research and development of new approaches, algorithms, and model architectures.
