@@ -1,4 +1,4 @@
-### My Key Skills and Practical Competencies
+### My Key Skills 
 
 Literature review and analysis: analyzing scientific articles, identifying promising ideas.
 
@@ -12,4 +12,10 @@ Documentation and presentations: reports, articles, code (GitHub), benchmarks, a
 
 Collaboration: working with engineers to implement findings and with subject matter experts to properly formulate the problem.
 
-Practical competencies: reproducibility of experiments (recording random samples, library versions, and configurations), research and development of new approaches, algorithms, and model architectures. Participation in Kaggle and Devpost hackathons in 2025-2026. 
+### My Practical Competencies 
+
+Reproducibility of experiments (recording random samples, library versions, and configurations). 
+
+Research and development of new approaches, algorithms, and model architectures. 
+
+Participation in Kaggle and Devpost hackathons in 2025-2026. 
